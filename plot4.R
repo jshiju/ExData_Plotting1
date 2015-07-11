@@ -8,7 +8,7 @@
 
 
 ## set working directory
-setwd("C:/Learn/R/Coursera/EDA/Project1")
+## setwd("C:/Learn/R/Coursera/EDA/Project1")
 ## remove all unwanted objects
 rm(list=ls())
 
