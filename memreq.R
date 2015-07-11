@@ -1,3 +1,11 @@
+###################################################################
+# @project : EDA@Coursera                                         #
+# @author  : jshiju                                               #
+# @date    : 11/JUL/15                                            #
+# @desc    : This script has a convenience function to check the  #
+#            memory size required for a data set with 'n' records #
+###################################################################
+
 memreq <- function(path, rowcount){
   
   # read first 100 records
